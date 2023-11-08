@@ -1,6 +1,6 @@
-# React Todo List
+# To-Do-App
 
-React Todo List is a simple web application built using React that allows you to create, manage, and organize your tasks. You can add tasks with titles, due dates, descriptions, and priorities. Additionally, you can mark tasks as completed and delete them.
+To-Do-App is a simple web application built using React that allows you to create, manage, and organize your tasks. You can add tasks with titles, due dates, descriptions, and priorities. Additionally, you can mark tasks as completed and delete them.
 
 
 ## Features
